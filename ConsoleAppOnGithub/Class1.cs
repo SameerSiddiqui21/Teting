@@ -25,5 +25,11 @@ namespace ConsoleAppOnGithub
             Console.WriteLine("6");
         }
 
+        public static void div2()
+        {
+            Console.WriteLine("22");
+        }
+
+
     }
 }
