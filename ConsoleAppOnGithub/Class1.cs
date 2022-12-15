@@ -12,5 +12,9 @@ namespace ConsoleAppOnGithub
         {
             Console.WriteLine("3");
         }
+        public static void sub()
+        {
+            Console.WriteLine("6");
+        }
     }
 }
