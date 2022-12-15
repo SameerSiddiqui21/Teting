@@ -16,5 +16,9 @@ namespace ConsoleAppOnGithub
         {
             Console.WriteLine("sameer");
         }
+        public static void test3()
+        {
+            Console.WriteLine("sameer");
+        }
     }
 }
