@@ -8,5 +8,9 @@ namespace ConsoleAppOnGithub
 {
     internal class Class1
     {
+        public static void add()
+        {
+            Console.WriteLine("3");
+        }
     }
 }
