@@ -29,6 +29,11 @@ namespace ConsoleAppOnGithub
         {
             Console.WriteLine("22");
         }
+        
+        public static void sol()
+        {
+            Console.WriteLine("Solution");
+        }
 
 
     }
