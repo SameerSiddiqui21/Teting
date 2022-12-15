@@ -16,5 +16,10 @@ namespace ConsoleAppOnGithub
         {
             Console.WriteLine("6");
         }
+                public static void mul()
+        {
+            Console.WriteLine("6");
+        }
+        
     }
 }
