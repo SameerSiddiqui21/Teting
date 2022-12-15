@@ -8,5 +8,10 @@ namespace ConsoleAppOnGithub.Weee
 {
     internal class myclass
     {
+        public static void ex()
+        {
+            Console.WriteLine();
+        }
+
     }
 }

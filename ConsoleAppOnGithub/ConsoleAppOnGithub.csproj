@@ -43,8 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Class2.cs" />
+    <Compile Include="demo\Class1.cs" />
+    <Compile Include="movie\Class1.cs" />
+    <Compile Include="movie\Class2.cs" />
+    <Compile Include="movie\Class3.cs" />
+    <Compile Include="movie\Class4.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="test\test1.cs" />
+    <Compile Include="test\test2.cs" />
+    <Compile Include="test\test3.cs" />
+    <Compile Include="Weee\myclass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
