@@ -25,6 +25,7 @@ namespace ConsoleAppOnGithub
             Console.WriteLine("6");
         }
 
+<<<<<<< Updated upstream
         public static void div2()
         {
             Console.WriteLine("22");
@@ -36,5 +37,12 @@ namespace ConsoleAppOnGithub
         }
 
 
+=======
+>>>>>>> Stashed changes
+
+        public static void sam()
+        {
+            Console.WriteLine();
+        }
     }
 }
