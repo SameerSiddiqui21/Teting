@@ -16,10 +16,14 @@ namespace ConsoleAppOnGithub
         {
             Console.WriteLine("6");
         }
-                public static void mul()
+        public static void mul()
         {
             Console.WriteLine("6");
         }
-        
+        public static void div()
+        {
+            Console.WriteLine("6");
+        }
+
     }
 }
